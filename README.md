@@ -1,5 +1,3 @@
-# Mini-ChatGPT.github.io
-
 Mini ChatGPT is a simplified chatbot application designed to demonstrate the core functionalities of AI-based conversational agents. It provides an interactive experience for users by generating human-like responses to textual input, powered by basic AI algorithms or API integrations.
 
 ## Features
